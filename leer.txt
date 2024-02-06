@@ -1,0 +1,16 @@
+1.- npm install en el client
+2.- npm install en el server
+3.- creo la bd students dentro de xampp e importo el fichero creado students.sql
+
+4.- Si pusiera en en package.json del cliente   "proxy": "https://mern.anchortrends.com", cogeira los datos de internet
+
+5.- Defino los componetes Home, Create, Home, Read dentro de la carpeta elements
+
+
+5.- npm start en server
+6.- npm start en client
+
+
+
+
+
